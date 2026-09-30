@@ -10,7 +10,7 @@ We are given an image
 
 
 
-!\[image](images/ukn\_reality.jpg)
+![image](images/ukn\_reality.jpg)
 
 
 
@@ -18,7 +18,7 @@ Running exiftool on this image provides us with the metadata of the image. Of pe
 
 
 
-!\[image](images/img1.png)
+![image](images/img1.png)
 
 
 
