@@ -2,7 +2,6 @@
 
 
 
-\----------------------------------------------------------------------------------------------------------------------------------------
 
 ## **#APPROACH**
 
@@ -12,7 +11,7 @@ First thing I did was run the netcat connection in kali, and it gave me some pre
 
 The first thing of order was finding p and q which are prime factors of N. This was a very weird task, and took me a solid 4-5 minutes, because I just didn't know where to begin. But then i noticed, that N ends in 2, and we know that any number ending in 2, can be divided by 2, and we also know 2 is prime. So, p=2, and q=N/2. all that was left was just decoding, and I got the flag pretty easily.
 
-\----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## **#SOLUTION**
 
@@ -92,13 +91,13 @@ print(long\_to\_bytes(m))
 
 and we get our flag.
 
-\----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## **#FLAG**
 
 **academy{tw0\_1$\_pr!m3cfb893a9}**
 
-\----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## **#TAKEAWAY**
 
