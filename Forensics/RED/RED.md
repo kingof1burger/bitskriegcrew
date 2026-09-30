@@ -16,7 +16,7 @@ Run zsteg on the image to get hidden text.
 
 
 
-!\[image](images/img1.png)
+![image](images/img1.png)
 
 
 
