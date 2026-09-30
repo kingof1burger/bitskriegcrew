@@ -48,7 +48,7 @@ print(flag)
 
 Running which, would give us our flag.
 
-!\[image](images/img1.png)
+![image](images/img1.png)
 
 ## **#FLAG**
 
