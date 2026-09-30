@@ -9,6 +9,7 @@ All we have in this chall is an image named red.png. Being the Forensics god tha
 ## **#SOLUTION**
 
 Download the image (in my case it is named red (1).png as this is not my first time attempting this chall). 
+![image](images/red(1).png)
 
 Run zsteg on the image to get hidden text.
 
