@@ -20,14 +20,14 @@ First things first, we connect to the instance.
 
 
 
-!\[image](images/img1.png)
+![image](images/img1.png)
 
 
 
 and below the whole dump, it asks,
 
 
-!\[image](images/img2.png)
+![image](images/img2.png)
 
 
 
@@ -47,7 +47,7 @@ In Ghidra, we find in main()
 
 
 
-!\[image](images/img3.png)
+![image](images/img3.png)
 
 
 
@@ -55,7 +55,7 @@ Here local\_c is the secret key.
 
 
 
-!\[image](images/img4.png)
+![image](images/img4.png)
 
 
 
@@ -79,7 +79,7 @@ Now that we have our secret hex stored, we just need to loop it as input
 
 
 
-!\[image](images/img5.png)
+![image](images/img5.png)
 
 
 
@@ -87,7 +87,7 @@ Here, text is just anything that the instance provided after whats the secret, a
 
 
 
-!\[image](images/img6.png)
+![image](images/img6.png)
 
 
 
