@@ -31,7 +31,7 @@ and the encryption code in python. From the chall title itself, its very clear t
 running the netcat connection gives us values of n,e, and ciphertext.
 
 
-![image][image_2026-09-30_112403806.png]
+![image][images/image_2026-09-30_112403806.png]
 
 
 **N: 24464894659707650292224760013980643311055670542582389423402556949940364339744301979232759873542626982268650023600793146497465212086543703763663120667478482**
